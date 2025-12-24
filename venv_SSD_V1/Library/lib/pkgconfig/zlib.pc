@@ -1,0 +1,13 @@
+prefix=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library
+exec_prefix=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library
+libdir=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library/lib
+sharedlibdir=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library/lib
+includedir=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
