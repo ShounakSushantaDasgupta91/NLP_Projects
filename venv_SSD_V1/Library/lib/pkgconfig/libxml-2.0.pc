@@ -1,0 +1,11 @@
+prefix=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library 
+exec_prefix=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library 
+libdir=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library/lib 
+includedir=D:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library/include 
+modules=0 
+Name: libXML 
+Version: 2.13.9 
+Description: libXML library version2. 
+Requires: 
+Libs: -LD:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library/lib -lxml2 -liconv -lz 
+Cflags: -ID:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library/include/libxml2 -ID:/Udemy Courses/Complete Data Science,Machine Learning,DL,NLP Bootcamp/Projects/Assignment_35/venv_SSD_V1/Library/include 
